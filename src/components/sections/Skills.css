@@ -1,0 +1,25 @@
+
+.logo-container {
+  display: grid;
+  gap: 0.25rem; 
+  /* responsive columns */
+  grid-template-columns: repeat(auto-fill, minmax(50px, 1fr)); 
+}
+
+.logo-boxes {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: 1px solid #4b5563; 
+  border-radius: 0.5rem; 
+  padding: 0.3rem;
+  background-color: #374151; 
+}
+
+/* responsive styles for large screens */
+@media (min-width: 1024px) {
+  .logo-container {
+    grid-template-columns: repeat(12, 1fr); /* 12 columns */
+    grid-template-rows: repeat(2, auto); /* 2 rows */
+  }
+}

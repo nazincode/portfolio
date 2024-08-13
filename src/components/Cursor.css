@@ -1,0 +1,16 @@
+
+.blinking-cursor {
+    font-weight: 100;
+    font-size: 1.5rem;
+    color: #ffffff;
+    animation: blink 1s step-end infinite;
+  }
+  
+  @keyframes blink {
+    from, to {
+      color: transparent;
+    }
+    50% {
+      color: #ffffff;
+    }
+  }

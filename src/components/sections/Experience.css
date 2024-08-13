@@ -1,0 +1,26 @@
+/* Experience.css */
+
+.exp {
+    display: grid;
+    grid-template-columns: repeat(1, 1fr);
+    gap: 1.5rem;
+  }
+  
+  @media (min-width: 768px) {
+    .exp {
+      grid-template-columns: repeat(2, 1fr);
+    }
+  }
+  
+  .cursor-pointer {
+    cursor: pointer;
+  }
+  
+  .transition-transform {
+    transition: transform 0.3s;
+  }
+  
+  .rotate-180 {
+    transform: rotate(180deg);
+  }
+  
