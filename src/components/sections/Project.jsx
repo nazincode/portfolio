@@ -11,7 +11,7 @@ const projects = [
   {
     id: "iTravel",
     image: travel,
-    liveLink: "https://example.com/live",
+    liveLink: "https://itravelgpt.netlify.app/",
     githubLink: "https://github.com/nazincode/itravelgpt",
     name: "iTravel",
     description: "Travel task manager webapp featuring an AI travel assistant",
@@ -19,8 +19,8 @@ const projects = [
   {
     id: "faloodalab",
     image: flsmartsite,
-    liveLink: "http://localhost:3000/",
-    githubLink: "https://github.com/example",
+    // liveLink: "coming soon",
+    githubLink: "https://github.com/nazincode/faloodalab",
     name: "Falooda Lab",
     description: "Dessert catering website with custom AI RAG chatbot made with Langchain",
   },
