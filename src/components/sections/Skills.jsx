@@ -68,7 +68,7 @@ function Skills() {
           <li><span className="text-customPurple">Frontend:</span> Vite, React, Next.js, Tailwind CSS, Figma, React Router</li>
           <li><span className="text-customPurple">Backend:</span> Node.js, Express</li>
           <li><span className="text-customPurple">Database Management:</span> MongoDB, DataStax Astra</li>
-          <li><span className="text-customPurple">ML/AI:</span> OpenAI API, Langchain</li>
+          <li><span className="text-customPurple">ML/AI:</span> OpenAI API, Langchain, MidJourney, DALL-E, RunwayML</li>
           <li><span className="text-customPurple">Tools & Deployment:</span> GitHub, Insomnia, Vercel, Netlify</li>
           <li><span className="text-customPurple">Image Editing & Design:</span> After Effects, Canva, Adobe Suite, Lightroom, Photoshop</li>
         </ul>

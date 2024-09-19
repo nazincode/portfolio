@@ -19,7 +19,7 @@ const About = () => {
         </p>
         
         <p className="mt-2">
-          Hi, I'm Naz! I'm a former high school math teacher turned fullstack developer interested in working wth AI-driven applications. 
+          Hi, I’m Naz! A former math teacher turned full-stack developer, passionate about building AI-integrated, human centered solutions. With expertise in data driven learning, cutting edge multimedia innovation, and leadership in humanitarian NFT initiatives, I’m excited to bring my problem-solving and project management skills to the tech world.
         </p>
         
         <p className="mt-8">

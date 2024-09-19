@@ -6,7 +6,7 @@ import Cursor from '../Cursor';
 const experiences = [
   {
     id: 'developer',
-    role: 'Fullstack Developer',
+    role: 'Aspiring Fullstack Developer',
     description: 'building innovative solutions from front to back with a passion for harnessing the power of AI',
   },
   {
@@ -16,13 +16,13 @@ const experiences = [
   },
   {
     id: 'photographer',
-    role: 'Photographer',
-    description: 'captured moments and stories through the lens with creativity and precision',
+    role: 'Photographer & Digital Asset Creator',
+    description: 'captured bold visuals for clients and crafted unique digital assets in the NFT/Web3 space, blending classic techniques and cutting-edge generative AI multimedia tools to push creative limits',
   },
   {
     id: 'instructionalDesign',
     role: 'Instructional Design Specialist',
-    description: 'transformed complex concepts into engaging and effective learning experiences',
+    description: 'transformed complex concepts into engaging and effective digital and physical learning experiences',
   },
   {
     id: 'mathTeacher',

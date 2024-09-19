@@ -4,6 +4,7 @@ import Navbar from './components/NavBar';
 import Sidebar from './components/SideBar';
 import About from './components/sections/About';
 import ProjectList from './components/sections/Project';
+import NonTech from './components/sections/NonTech';
 import Contact from './components/sections/Contact';
 import Experience from './components/sections/Experience';
 import Skills from './components/sections/Skills';
@@ -26,7 +27,9 @@ function App() {
           <About />
           <Skills/>
           <ProjectList/>
+          <NonTech/>
           <Experience/>
+          
           <Contact/>
           
           <p className='text-gray-400 text-sm text-right bg-gray-800 '>
